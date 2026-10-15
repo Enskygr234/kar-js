@@ -8,6 +8,12 @@
 
 </div>
 
+<!-- ENS:TANITIM -->
+## 📸 Ekran görüntüsü
+
+<img src="docs/ekran.png" width="100%" alt="kar.js ekran görüntüsü">
+<!-- /ENS:TANITIM -->
+
 Web sayfana tek satırla kar yağdıran küçük bir JavaScript kütüphanesi. Tek dosya, bağımlılık yok, sıkıştırılınca yaklaşık 3 KB.
 
 **[→ Canlı demoyu aç](https://enskygr234.github.io/kar-js/)** — ayarlarla oyna, hazır kodu kopyala.
@@ -76,3 +82,19 @@ Derleme adımı yok. Depoyu indir, `index.html` dosyasını tarayıcıda aç.
 ## Lisans
 
 [MIT](LICENSE) © Winterdeveloper
+
+<!-- ENS:ALT -->
+---
+
+<div align="center">
+
+**❄️ ENS Developer'ın diğer projeleri**
+
+🌐 Web: [Wintercle](https://github.com/Enskygr234/wintercle) · [Buz Şifre](https://github.com/Enskygr234/buz-sifre) · [Piksel Ayaz](https://github.com/Enskygr234/piksel-ayaz) · [Kar Tanesi](https://github.com/Enskygr234/kar-tanesi) · [Nardugan](https://github.com/Enskygr234/nardugan)
+
+[🌐 Bütün projeler](https://enskygr234.github.io/ensdewloper.github.io/) · [👤 GitHub profilim](https://github.com/Enskygr234)
+
+<sub>Kış gelir, kod yazılır.</sub>
+
+</div>
+<!-- /ENS:ALT -->
